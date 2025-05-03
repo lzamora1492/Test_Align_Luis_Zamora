@@ -33,6 +33,8 @@ Test_Align_Luis_Zamora/
 ├── test_3_bonus.py
 
 ```
+Notes:
+The reports folder will be created when the test cases will run for first time
 
 ---
 
@@ -50,8 +52,8 @@ Test_Align_Luis_Zamora/
 ```git bash
 Move to the directory where you want to download the project
 
-git clone https://github.com/tu_usuario/proyecto-qa.git
-cd proyecto-qa
+git clone git remote add origin https://github.com/lzamora1492/Test_Align_Luis_Zamora.git
+cd Test_Align_Luis_Zamora
 ```
 ---
 
